@@ -7,6 +7,53 @@ Don't forget to **[Subscribe to our email newsletter](https://remotejobsandyou.s
 
 Stay tuned for more exciting job listings as we keep updating this regularly!
 
+**Remote Jobs Hiring (Dec 15, 2024): [More details and link to apply here](https://open.substack.com/pub/remotejobsandyou/p/remote-jobs-hiring-now-dec-15-2024?utm_campaign=post&utm_medium=web)**
+
+| **Category**           | **Company**                  | **Role**                                   | **Location**                   | **Salary**               |
+|-------------------------|------------------------------|--------------------------------------------|---------------------------------|--------------------------|
+| **Software Development** | Float                      | Senior Frontend Performance Engineer       | Worldwide                      | $167,471 USD            |
+|                         | Elvex                      | Senior Product Engineer                    | GMT - 8 to GMT - 4             | $150,000 - $210,000 USD |
+|                         | Speechify                  | Senior Android Engineer                    | Worldwide                      | -                        |
+|                         | Resilinc                   | Senior Android Developer                   | India                          | -                        |
+|                         | Makpar                     | Junior Cloud Security Engineer             | USA                            | -                        |
+| **Project Management**  | Findem                     | Principal Product Manager                  | USA                            | -                        |
+|                         | iVisa                      | Senior Business Analyst                    | Worldwide                      | -                        |
+|                         | NICE                       | Technical Account Manager                  | UK                             | -                        |
+| **Data Science**        | Traackr                    | Senior Data Analyst                        | LATAM                          | $30,000 - $50,000 USD   |
+|                         | Mercury                    | Data Science Manager                       | USA and Canada                 | -                        |
+|                         | Spotify                    | Machine Learning Engineer                  | USA                            | $136,878 - $195,540 USD |
+| **Sales**               | Upright                    | Head of Sales                              | Germany / Helsinki, Finland    | -                        |
+|                         | CaptivateIQ                | Partner Success Director                   | North America                  | -                        |
+| **Marketing**           | Windranger                 | Corporate Communications Lead              | AMER, EMEA, APAC regions       | -                        |
+|                         | JustAnswer                 | Community Associate                        | Ukraine                        | -                        |
+|                         | Tesorio                    | Senior Product Manager                     | USA                            | -                        |
+| **Accounting & Finance**| Cointracker                | Strategic Finance                          | USA and Canada                 | -                        |
+|                         | Wealthfront                | Tax Manager                                | USA                            | -                        |
+| **Design**              | Kontakt.io                 | UI/UX Designer                             | Poland                         | -                        |
+| **QA**                  | Social Discovery Group     | Senior QA Engineer (Java)                  | Worldwide                      | -                        |
+|                         | Circle                     | Senior QA Engineer                         | Worldwide                      | $110,000 - $130,000 USD |
+| **HR**                  | Outliant                   | Senior Talent Acquisition Specialist       | LATAM                          | -                        |
+|                         | Spotify                    | Compensation Partner                       | USA                            | $102,401 - $128,001 USD |
+|                         | Doordash                   | GTM Recruiter                              | USA                            | $85,000 - $125,000 USD  |
+| **IT**                  | RYZ Labs                   | IT Engineer                                | LATAM                          | -                        |
+| **Data Entry**          | HeliosX                    | Data Entry Specialist                      | USA                            | $18.50 - $19.50/hr      |
+|                         | Natera                     | Clinical Data Entry Operator               | USA                            | -                        |
+| **Virtual Assistant**   | Life360                    | Executive Assistant                        | USA                            | -                        |
+| **Customer Service**    | Lempire                    | Customer Support Specialist                | France                         | -                        |
+|                         | Xapo Bank                  | Customer Success Advisor                   | LATAM                          | -                        |
+|                         | Aircall                    | Customer Support Specialist                | India                          | -                        |
+| **Writing**             | Seed                       | Head of Content                            | USA                            | $200,000 - $220,000 USD |
+| **Editing**             | Black & White Zebra        | Editor                                     | Canada                         | $60,000 - $80,000 USD   |
+| **Legal**               | Quantum Metric             | Associate General Counsel                  | USA                            | $150,000 - $170,000 USD |
+| **Teaching**            | Khan Academy               | English Biology Content Creator            | India                          | -                        |
+| **Healthcare**          | Circadia Health            | Virtual Nurse Practitioner                 | USA                            | -                        |
+|                         | SWC                        | Medical Biller                             | Philippines                    | -                        |
+| **Other**               | Apollo                     | Senior Customer Success Engineer           | USA                            | -                        |
+|                         | Getty Images               | Staff Sports Photographer                  | Mexico                         | -                        |
+|                         | 1Password                  | Renewals Specialist                        | UK                             | -                        |
+
+
+
 **Remote Jobs Hiring (Dec 12, 2024): [More details and link to apply here](https://open.substack.com/pub/remotejobsandyou/p/remote-jobs-hiring-now-dec-12-2024?utm_campaign=post&utm_medium=web)**
 | **Category**               | **Company**          | **Job Title**                                    | **Location**                 | **Salary/Details**                              |
 |----------------------------|----------------------|--------------------------------------------------|------------------------------|-------------------------------------------------|

@@ -7,6 +7,50 @@ Don't forget to **[Subscribe to our email newsletter](https://remotejobsandyou.s
 
 Stay tuned for more exciting job listings as we keep updating this regularly!
 
+**Remote Jobs Hiring (Dec 16, 2024): [More details and link to apply here](https://open.substack.com/pub/remotejobsandyou/p/remote-jobs-hiring-now-33-work-from?r=4nhf3n&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
+
+| **Category**                   | **Company**                    | **Role**                                     | **Location**                         | **Salary**                                |
+|--------------------------------|---------------------------------|---------------------------------------------|---------------------------------------|------------------------------------------|
+| **Software Development**       | Gamurs                         | Software Engineer                           | Worldwide                            | -                                        |
+|                                | Cruise                         | Staff Software Engineer                     | USA                                  | $166,600 - $245,000                      |
+|                                | Mint Mobile                    | Software Architect                          | USA                                  | $150,000 - $170,000                      |
+|                                | Spotify                        | Backend Engineer                            | USA                                  | $122,716 - $175,308                      |
+| **Project Management**         | DEPT                          | Senior Technical Program Manager            | Within 50 miles of Atlanta, USA      | $111,300 - $161,400                      |
+|                                | Rackspace                      | Engagement Manager                          | Canada                               | -                                        |
+|                                | Monzo                         | Senior Product Manager                      | UK                                   | £85,000 - £120,000                       |
+| **Data Science**               | Social Discovery Group         | Senior NLP Engineer                         | Worldwide                            | -                                        |
+|                                | MariaDB                        | Data Insights & Analytics Specialist        | Bulgaria, Croatia, Estonia, Romania, or Serbia | -                                |
+| **Sales**                      | Ergeon                        | Senior Sales Launch Expert                  | LATAM                                | -                                        |
+|                                | Tenable                       | Territory Account Manager                   | Saudi Arabia                         | -                                        |
+|                                | Swiftly                       | Business Development Representative         | USA and Canada                       | $62,000 - $95,000                        |
+| **Marketing**                  | SubScript                     | Growth Marketing Manager                    | Worldwide                            | -                                        |
+|                                | SubScript                     | Content Marketing Manager                   | Worldwide                            | -                                        |
+|                                | Synthesia                     | SEO Manager                                 | Europe                               | -                                        |
+|                                | Close.io                      | Senior Social Media Manager                 | USA                                  | -                                        |
+|                                | Luxor                         | Growth Marketing Analyst                    | UTC-8 to UTC-3                       | -                                        |
+| **Accounting & Finance**       | Canonical                     | Systems Accounting Manager                  | EMEA                                 | -                                        |
+|                                | Life360                       | Senior Accountant, Financial Reporting      | USA                                  | -                                        |
+|                                | Gitlab                        | Manager, Payroll                            | USA                                  | $86,800 - $186,000                       |
+| **Design**                     | GoodNotes                     | Product Designer                            | Europe and Asia                      | -                                        |
+|                                | GiveButter                    | Senior Product Designer                     | USA                                  | $135,000 - $150,000                      |
+| **QA**                         | 3Pillar                       | Quality Assurance Engineer - Automation     | Moldova, Europe                      | -                                        |
+| **HR**                         | Wattpad                       | People Partner                              | USA and Canada                       | $70,000 - $120,000 CAD                   |
+| **IT**                         | Social Discovery Group         | Senior System Administrator                 | Worldwide                            | -                                        |
+| **Data Entry**                 | -                              | No current opportunities                    | -                                    | -                                        |
+| **Virtual Assistant**          | -                              | No current opportunities                    | -                                    | -                                        |
+| **Customer Service**           | Cority                        | Customer Support Analyst                    | USA                                  | -                                        |
+|                                | Attentive                     | Customer Support Specialist                 | USA                                  | $60,000                                  |
+| **Writing**                    | Brafton                       | Content Writer                              | Atlantic Canada                      | -                                        |
+|                                | Oddball                       | Content Writer                              | USA                                  | $110,000 – $135,000                      |
+| **Editing**                    | -                              | No current opportunities                    | -                                    | -                                        |
+| **Legal**                      | -                              | No current opportunities                    | -                                    | -                                        |
+| **Teaching**                   | Khan Academy                  | Content Creator, Grades 3-8 Math            | USA and Canada                       | -                                        |
+|                                | Promethean                    | Education Consultant                        | USA                                  | $65,000 - $75,000                        |
+| **Healthcare**                 | Better Life Partners           | Medication Associate                        | USA                                  | -                                        |
+| **Other**                      | Mercury                       | Internal Audit Lead                         | USA and Canada                       | $160,900 - $201,100                      |
+
+
+
 **Remote Jobs Hiring (Dec 15, 2024): [More details and link to apply here](https://open.substack.com/pub/remotejobsandyou/p/remote-jobs-hiring-now-dec-15-2024?utm_campaign=post&utm_medium=web)**
 
 | **Category**           | **Company**                  | **Role**                                   | **Location**                   | **Salary**               |

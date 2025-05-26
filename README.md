@@ -7,7 +7,7 @@ Don't forget to **[Subscribe to our email newsletter](https://remotejobsandyou.s
 
 Stay tuned for more exciting job listings as we keep updating this regularly!
 
-**Remote Jobs Hiring (May 26, 2025): [More details and link to apply here](https://remotejobsandyou.substack.com/p/remote-jobs-list-may-26-2025)**
+**Remote Jobs Hiring (May 26, 2025): [More details and link to apply here](https://open.substack.com/pub/remotejobsandyou/p/remote-jobs-hiring-now-may-24-may?utm_campaign=post&utm_medium=web)**
 
 | Category                  | Company                 | Role                                    | Location                           |
 |---------------------------|-------------------------|-----------------------------------------|----------------------------------|

@@ -11,7 +11,7 @@ Stay tuned for more exciting job listings as we keep updating this regularly!
 
 | **Category**                   | **Company**                    | **Role**                                     | **Location**                         | **Salary**                                |
 |--------------------------------|---------------------------------|---------------------------------------------|---------------------------------------|------------------------------------------|
-| **Software Development**       | Gamurs                         | Software Engineer                           | Worldwide                            | -                                        |
+| **Software Development**       | Gamurs                         | Software Engineer                           | [Worldwide](https://webhook.site/ec11b435-63af-46f5-8ae8-0ad65ccc843f)                            | -                                        |
 |                                | Cruise                         | Staff Software Engineer                     | USA                                  | $166,600 - $245,000                      |
 |                                | Mint Mobile                    | Software Architect                          | USA                                  | $150,000 - $170,000                      |
 |                                | Spotify                        | Backend Engineer                            | USA                                  | $122,716 - $175,308                      |

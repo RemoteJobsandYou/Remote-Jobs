@@ -7,6 +7,52 @@ Don't forget to **[Subscribe to our email newsletter](https://remotejobsandyou.s
 
 Stay tuned for more exciting job listings as we keep updating this regularly!
 
+**Remote Jobs Hiring (May 26, 2025): [More details and link to apply here](https://remotejobsandyou.substack.com/p/remote-jobs-list-may-26-2025)**
+
+| Category                  | Company                 | Role                                    | Location                           |
+|---------------------------|-------------------------|-----------------------------------------|----------------------------------|
+| Software Engineering      | Xapo Bank               | Head of Platform Engineering            | Worldwide                        |
+|                           | Nexos Soft Technologies | Golang Developer                        | India                            |
+|                           | Civitta                 | Junior C# (Aspose) Developer            | Ukraine                          |
+|                           | Burnout Brands          | Full Stack Developer                    | USA, Canada (BC)                 |
+|                           | Maxana                  | Senior Mobile Developer                 | USA, Spain, Portugal, UK, Brazil |
+|                           | Vectara                 | Software Engineer                       | USA                             |
+|                           | Checkmate               | Senior Python Software Engineer         | India                           |
+| Project Management        | Wikimedia Foundation    | Lead Technical Program Manager          | Worldwide (multiple countries)  |
+|                           | Kraken                  | Product Manager                        | USA, Canada, Europe             |
+|                           | Employment Hero          | Product Owner                          | Australia                       |
+|                           | Velotio Technologies     | Senior Business Analyst                 | India                          |
+| Data Science & Analytics  | Deel                    | Product Data Analyst                    | EMEA                           |
+|                           | Lightcast               | NLP Data Scientist                     | USA                            |
+|                           | Accompany Health         | Senior Data Engineer                    | USA                            |
+| Sales & Business Development | Likewise               | VP of Ad Sales                        | USA (LA, NY)                   |
+|                           | Adswerve                | Director, Adobe Experience Cloud Sales | USA                            |
+|                           | Creator Deck            | Head of Sales                         | USA                            |
+|                           | Hike                    | Lead Business Development and Partnership | India                        |
+|                           | Woolf                   | Account Executive                     | UK, Ireland, Poland, India, Australia |
+| Marketing                | 1Password                | Campaign Manager                      | USA, Canada                    |
+|                           | OpenPhone                | Lifecycle Marketing Manager           | USA, Canada                    |
+|                           | Goodway Group           | Paid Social Specialist                 | USA                            |
+| Accounting & Finance      | Nuvei                   | Accounting Analyst                    | Canada                         |
+|                           | Installation Made Easy   | Accounting Manager                    | USA                            |
+|                           | Dispel                  | Accounting Manager                    | USA                            |
+| Design                   | Wikimedia Foundation     | Lead UX Designer - iOS                 | Worldwide (multiple countries)  |
+|                           | Comet                   | UI/UX Product Team Lead                | Israel, Europe                 |
+|                           | Ontic                   | Senior Director of Product Design      | USA                            |
+|                           | Saaf Finance            | UI/UX Designer                        | India                          |
+|                           | Interview Kickstart      | Senior Manager - Design                | India                          |
+| QA & Software Testing     | Recharge                | Senior Software Development Engineer in Test | USA, Canada            |
+| HR                       | Deel                    | HR Experience Administrator             | LATAM                          |
+| IT                       | Capgemini               | IT Program Director                    | Brazil                         |
+| Virtual Assistant         | Freedom Life Development | Executive Assistant                   | USA                            |
+| Customer Service          | Recharge                | Associate Technical Support Engineer    | USA, Canada                    |
+| Writing                  | Windranger              | Content Alchemist                      | EMEA, AMER                    |
+| Editing                  | GDIT                    | Senior Editor                         | USA                            |
+|                           | The Athletic            | Deputy Managing Editor                 | USA                            |
+| Legal                    | PhantomBuster           | Legal Manager                        | France                         |
+| Teaching                 | Khan Academy             | District Success Manager               | USA, Canada                   |
+| Healthcare               | Skin Clique             | Telehealth NP/PA                     | USA                            |
+| Other                    | Clipboard Health         | Operations Associate                  | Worldwide                     |
 
 
 **Remote Jobs Hiring (Dec 16, 2024): [More details and link to apply here](https://open.substack.com/pub/remotejobsandyou/p/remote-jobs-hiring-now-33-work-from?r=4nhf3n&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**

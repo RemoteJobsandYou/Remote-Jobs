@@ -7,11 +7,13 @@ Don't forget to **[Subscribe to our email newsletter](https://remotejobsandyou.s
 
 Stay tuned for more exciting job listings as we keep updating this regularly!
 
+
+
 **Remote Jobs Hiring (Dec 16, 2024): [More details and link to apply here](https://open.substack.com/pub/remotejobsandyou/p/remote-jobs-hiring-now-33-work-from?r=4nhf3n&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)**
 
 | **Category**                   | **Company**                    | **Role**                                     | **Location**                         | **Salary**                                |
 |--------------------------------|---------------------------------|---------------------------------------------|---------------------------------------|------------------------------------------|
-| **Software Development**       | Gamurs                         | Software Engineer                           | [Worldwide](https://webhook.site/ec11b435-63af-46f5-8ae8-0ad65ccc843f)                            | -                                        |
+| **Software Development**       | Gamurs                         | Software Engineer                           | Worldwide                            | -                                        |
 |                                | Cruise                         | Staff Software Engineer                     | USA                                  | $166,600 - $245,000                      |
 |                                | Mint Mobile                    | Software Architect                          | USA                                  | $150,000 - $170,000                      |
 |                                | Spotify                        | Backend Engineer                            | USA                                  | $122,716 - $175,308                      |
